@@ -337,7 +337,7 @@ drwxr-x--- 4 trainingXY training  512 Feb  9 14:18 trainingXY
 All 3 of the methods above mean the same thing.
 
 You will see a list of files and directories in the parent directory of your home directory. One of them will 
-be the name of your home directory, something like *\env{HPC_USERNAME}*.  Where *XX* is replaced by a two digit string
+be the name of your home directory, something like *trainXX*.  Where *XX* is replaced by a two digit string.
 
 **Altername**: using the *-a* flag and looking at the *.* (dot) special file.
 
